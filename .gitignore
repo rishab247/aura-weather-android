@@ -1,0 +1,15 @@
+# Android Build Artifacts
+*.apk
+*.idsig
+bin/
+obj/
+res_compiled/
+*.zip
+base.apk
+aligned.apk
+
+# Keystore (Security)
+*.keystore
+
+# Local Config
+.DS_Store

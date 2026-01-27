@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glass_white">#33FFFFFF</color>
+    <color name="glass_border">#4DFFFFFF</color>
+    <color name="sunny_start">#FF512F</color>
+    <color name="sunny_end">#F09819</color>
+    <color name="cloudy_start">#485563</color>
+    <color name="cloudy_end">#29323c</color>
+    <color name="rainy_start">#000046</color>
+    <color name="rainy_end">#1CB5E0</color>
+    <color name="default_start">#1e3c72</color>
+    <color name="default_end">#2a5298</color>
+</resources>
