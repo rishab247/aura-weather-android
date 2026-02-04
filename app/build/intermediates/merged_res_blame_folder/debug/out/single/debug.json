@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.rishab247.aura.app-merged_res-32:/drawable_weather_bg.xml.flat",
+        "source": "com.rishab247.aura.app-main-34:/drawable/weather_bg.xml"
+    },
+    {
+        "merged": "com.rishab247.aura.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.rishab247.aura.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rishab247.aura.app-merged_res-32:/drawable_main_bg.xml.flat",
+        "source": "com.rishab247.aura.app-main-34:/drawable/main_bg.xml"
+    },
+    {
+        "merged": "com.rishab247.aura.app-merged_res-32:/drawable_card_bg.xml.flat",
+        "source": "com.rishab247.aura.app-main-34:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.rishab247.aura.app-merged_res-32:/anim_fade_slide_up.xml.flat",
+        "source": "com.rishab247.aura.app-main-34:/anim/fade_slide_up.xml"
+    }
+]
